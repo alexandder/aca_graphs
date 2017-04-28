@@ -1,0 +1,180 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2015.1.3)  19 JAN 2017 03:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**boxplots_alpha_rule0.tex
+(./boxplots_alpha_rule0.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size8.clo
+File: size8.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2007/10/29 v2.1h Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 52.
+\big@size=\dimen102
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks15
+)
+
+LaTeX Warning: Unused global option(s):
+    [a3paper].
+
+(./boxplots_alpha_rule0.aux)
+\openout1 = `boxplots_alpha_rule0.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a3paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(14.22636pt, 1166.56302pt, 14.22636pt)
+* v-part:(T,H,B)=(42.67912pt, 788.14136pt, 14.22636pt)
+* \paperwidth=1195.01575pt
+* \paperheight=845.04684pt
+* \textwidth=1166.56302pt
+* \textheight=788.14136pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=9.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 8.
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <5> on input line 8.
+File: 0.pdf Graphic file (type QTm)
+<use  "0.pdf" >
+File: 0_1.pdf Graphic file (type QTm)
+ <use  "0_1.pdf" >
+File: 0_2.pdf Graphic file (type QTm)
+ <use  "0_2.pdf" >
+File: 0_3.pdf Graphic file (type QTm)
+ <use  "0_3.pdf" >
+File: 0_4.pdf Graphic file (type QTm)
+
+<use  "0_4.pdf" >
+File: 0_5.pdf Graphic file (type QTm)
+ <use  "0_5.pdf" >
+File: 0_6.pdf Graphic file (type QTm)
+ <use  "0_6.pdf" >
+File: 0_7.pdf Graphic file (type QTm)
+ <use  "0_7.pdf" >
+File: 0_8.pdf Graphic file (type QTm)
+
+<use  "0_8.pdf" >
+File: 0_9.pdf Graphic file (type QTm)
+ <use  "0_9.pdf" >
+File: 1_0.pdf Graphic file (type QTm)
+ <use  "1_0.pdf" > [1
+
+]
+(./boxplots_alpha_rule0.aux) ) 
+Here is how much of TeX's memory you used:
+ 1112 strings out of 493918
+ 16456 string characters out of 6150564
+ 73412 words of memory out of 5000000
+ 4464 multiletter control sequences out of 15000+600000
+ 5913 words of font info for 22 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 25i,10n,20p,269b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on boxplots_alpha_rule0.pdf (1 page).
