@@ -20,7 +20,7 @@ def compute_average_for_rule(rule, alphas):
     return result
 
 def create_graph(averages, rule, alphas, path):
-    plt.ylim([0,1])
+    plt.ylim([0,1.05])
     for n in ['000', '001', '010', '011', '101', '111']:
         plt.plot(alphas, averages[n], label = str(n))
     plt.xlabel(r'$\alpha$', size=20)
